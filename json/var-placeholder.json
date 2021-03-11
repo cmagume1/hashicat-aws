@@ -2,8 +2,8 @@
   "data": {
     "type":"vars",
     "attributes": {
-      "key":"placeholder",
-      "value":"placedog.net",
+      "key":"placedog.net",
+      "value":"REPLACE_ME",
       "category":"terraform",
       "hcl":false,
       "sensitive":false
