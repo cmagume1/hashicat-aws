@@ -2,7 +2,7 @@
   "data": {
     "type":"vars",
     "attributes": {
-      "key":"placedog.net",
+      "key":"placeholder",
       "value":"REPLACE_ME",
       "category":"terraform",
       "hcl":false,
